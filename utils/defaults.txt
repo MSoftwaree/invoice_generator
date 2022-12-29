@@ -1,0 +1,3 @@
+appearance=dark
+language=english
+theme=blue
